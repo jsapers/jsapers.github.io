@@ -269,6 +269,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   text-transform: uppercase;
   letter-spacing: 2px;
   margin-bottom: .3em;
+  color: #999;
 }
 .info h4, #header h4{
   color: #999;
